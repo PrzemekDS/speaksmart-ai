@@ -1,0 +1,32 @@
+# =============================
+# 🧠 SPEAKSMART AI – .gitignore
+# =============================
+
+# 🐍 Środowiska Pythona (nie wysyłaj lokalnych środowisk)
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# 💻 Systemowe pliki ukryte (Windows, macOS)
+.DS_Store
+Thumbs.db
+
+# 📦 Streamlit – folder konfiguracyjny i klucze
+.streamlit/
+.streamlit/secrets.toml  # <-- tu nigdy nie trzymamy kluczy API w repo!
+
+# 🧾 Pliki tymczasowe i eksporty
+*.tmp
+*.bak
+*.csv
+*.log
+
+# 🧰 VSCode i inne IDE
+.vscode/
+.idea/
+
+# 🚀 Backupy lub wersje robocze
+*backup*
+*~$
