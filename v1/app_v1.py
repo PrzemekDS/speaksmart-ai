@@ -129,9 +129,15 @@ with st.sidebar:
     # API Key input
     api_key = st.text_input("OpenAI API Key", type="password", help="Enter your OpenAI API key")
     
-    # Target language
-    target_lang = st.text_input("Target Language", value="angielski", help="Language to translate to")
-    
+    # Target language selection (top 5)
+    languages = ["English", "Polish", "Spanish", "German", "French"]
+    target_lang = st.selectbox(
+        "Select Target Language",
+        options=languages,
+        index=0,
+        help="Choose the language to translate into"
+    )
+
     st.markdown("---")
     
     # Translation stats
