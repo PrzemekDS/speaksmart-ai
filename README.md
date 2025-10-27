@@ -35,15 +35,14 @@ pip install -r requirements.txt
 
 ## 🧩 Moduł 11 — Workflow Trello + GitHub
 
-Projekt wdrożenia aplikacji **SpeakSmart AI v0** w ramach modułu 11:
+Projekt wdrożenia aplikacji **SpeakSmart AI v1** w ramach modułu 11:
 
-🗂️ **Tablica Trello:** [(https://trello.com/b/6vhBTTKf/speaksmart-ai-workflow-v0)]  
+🗂️ **Tablica Trello:** https://trello.com/b/6vhBTTKf/speaksmart-ai-workflow-v0
 
-🔀 **Pull Request:** [link]  
+🔀 **Pull Request:** https://github.com/PrzemekDS/speaksmart-ai/pull/1
 
-🏷️ **Wersja aplikacji:** v1  
+🏷️ **Wersja aplikacji:** v1
 
-🌐 **Link do wdrożenia:** [https://speaksmart-ai-dxetzjc4sryq7uitq82cn3.streamlit.app/](https://speaksmart-ai-dxetzjc4sryq7uitq82cn3.streamlit.app/)
-
+🌐 **Link do wdrożenia:** https://speaksmart-ai-dxetzjc4sryq7uitq82cn3.streamlit.app/
 
 ---
